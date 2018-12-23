@@ -1,3 +1,5 @@
+# CryptoBot
+
 ![](https://img.shields.io/github/license/yamozha/CryptoBot.svg)
 ![](https://img.shields.io/badge/Status-WIP-blue.svg)
 
